@@ -1,0 +1,35 @@
+{
+  "name": "78_backend",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Elena-Roshchyna/78_backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Elena-Roshchyna/78_backend/issues"
+  },
+  "homepage": "https://github.com/Elena-Roshchyna/78_backend#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "uuid": "^14.0.1"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.6",
+    "@types/node": "^26.1.1",
+    "@types/uuid": "^10.0.0",
+    "ts-node": "^10.9.2",
+    "ts-node-dev": "^2.0.0",
+    "tsx": "^4.23.1",
+    "typescript": "^5.9.3"
+  }
+}
+
